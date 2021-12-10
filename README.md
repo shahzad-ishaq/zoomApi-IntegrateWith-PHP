@@ -1,5 +1,5 @@
 <H1>Zoom Integrate With PHP</H1>
-<p>I’m developing an online platform using Laravel. here we will have multiple teachers and multiple students.
+<p>I’m developing an online platform using PHP. here we will have multiple teachers and multiple students.
 so teachers can create multiple events [meetings] and can join students who accepted it. like
 
 Teacher x → create event → have 20 students
